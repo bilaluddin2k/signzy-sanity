@@ -4,9 +4,12 @@
 #!/usr/bin/bash
 # Author: Bilaluddin 
 # Profile: DEVOPS
-# version: V0.3
+# version: V0.2
 
-version=V0.3
+version=V0.2
+
+
+
 
 echo "this script can only be run on PR and DR"
 

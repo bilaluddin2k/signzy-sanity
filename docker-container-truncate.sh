@@ -1,0 +1,1 @@
+find /docker/containers -type f -name *-json.log -exec truncate -s 1000 {} \; && find /docker/containers -type f -name *-json.log -exec du-sh {} \;
